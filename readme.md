@@ -49,7 +49,7 @@ To run this project locally, please follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/image-segmentation-mobilenet.git
+   git clone https://github.com/sm1899/convtransformer-classification.git
    ```
 
 2. Install the required dependencies:
